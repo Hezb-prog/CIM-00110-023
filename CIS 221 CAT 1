@@ -1,0 +1,120 @@
+    <html  lang="en">
+        <head>
+            <hr>\
+            <h1>
+                <button><b>CIS 221</b></b></button>
+        </head>
+        <body>
+        <style>
+            h1{
+                text-align: center;
+            }
+            button{
+                box-shadow: 5px;
+                font-weight: bolder;
+                font-size: 18px;
+                border-radius: 6px;
+                padding: 15px 10px;
+                line-height: 20px;
+                background-color: thistle;
+                text-transform: uppercase;
+                margin: 0 auto;
+                display: block;
+            }
+            h2{
+                text-align: center;
+                text-transform: capitalize;
+                color: blueviolet;
+                text-decoration: underline;
+            }
+            body{
+                background-color: rgb(237, 239, 152);
+            }
+            <style> 
+            h3{
+                text-align: center;
+                color: blue;
+                border: 25px;
+                border-radius: 10px 20px;
+                box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
+                transition: background-color 0.3s ease;
+                font-weight: 300px;
+                font-size: large;
+                font-family: 'Times New Roman', Times, serif;
+                font-size: bold;
+                text-align: center;
+                text-decoration: underline;
+            }
+            .hezbon-info{
+
+            }
+            a{
+                text-decoration: none;
+                align-self: center;
+                display: inline-block;
+                margin-inline: 10px;
+                text-transform: capitalize;
+            }
+            a:hover{
+                text-decoration: underline;
+                cursor: pointer;
+             }
+             .anchors{
+                text-align: center;
+                padding: 10px;
+                margin: 5px;
+             }
+             h4{
+                font-size: 12px;
+                text-align: center;
+                font-weight: normal;
+             }
+             button{
+                border-radius: 25px;
+                padding: 15px 10px;
+                line-height: 20px;
+                background-color: thistle;
+                box-shadow: 5px;
+                font-weight: bolder;
+                font-size: 18px;
+                text-transform: uppercase;
+                margin: 0 auto;
+                display: block;
+             }
+             h5{
+                text-align: center;
+             }
+             h6{
+                text-align: center;
+                text-decoration: underline;
+                color: blue;
+             }
+        </style> 
+        <h2>home of imports</h2>
+        <hr>
+<center><img src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRXYt0zWEOYpd1Xq3cy-N-HfM-ToCY1nuDQ624EDjn69MHbVYyjQHWEaL6xlBxpBdFMHRpxKKlqPpu6x5DtDvF7f1nOGooNboYpoal4HQwCPmpSRn0vxFoz&usqp=CAc"alt"cosding"/></center>center>
+
+       <p>
+        Hezbon Solutions delights in reliving you of the effort put into imports logistics. We are here to redefeine this process for you in simpler way. Our simpler way is by allowing you to as we do sourcing for you, do purchases and handle all the paper work requires by customs in both country of origin and destination. to add onto this, we deliver it right at your door step.
+       </p>
+      
+       <body>
+        <h6>
+            countrie s covered : </h6>
+            <div class="anchors"span="10px">
+                <a href="https://www.alibaba.com/"
+                target="_blank">
+                CHINA</a>
+                <a href="https://www.amazon.co.uk/"
+                target="_blank">
+                United Kingdom </a>
+                <a href="https://www.amazon.com/"
+                target="_blank">
+                United State of America </a>
+            </div>
+<button>
+🚢PLACE AN ORDER
+</button>
+<h5>Designed and Coded by HEZBON AMOKA</5>
+     </body>
+    </head>
